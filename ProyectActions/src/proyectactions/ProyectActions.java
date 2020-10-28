@@ -14,7 +14,12 @@ import MWind.MWindow;
 public class ProyectActions {
 
     /**
-     * @param args the command line arguments
+     * C:\COBIS_HOME_WEB_MAP\cwc
+     * C:\COBIS_HOME_WEB_MAP\cwc\webapps\views
+     * C:\COBIS_HOME_WEB_MAP\cwc\plugins
+     * 
+     * 
+     * 
      */
     public static void main(String[] args) {
         // TODO code application logic here

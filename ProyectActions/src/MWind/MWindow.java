@@ -45,8 +45,8 @@ public class MWindow extends javax.swing.JFrame {
         Views.ViewsIn = "D:\\COBIS_ALL\\AprendiendoDesigner\\build\\cobis\\web\\views\\TLLRS";
         plugins.pluginsIn = "D:\\COBIS_ALL\\AprendiendoDesigner\\build\\cobis";
         //
-        Views.ViewsOut = "C:\\Users\\ADRIAN COSTA\\Desktop\\Nueva carpeta";
-        plugins.pluginsOut = "C:\\Users\\ADRIAN COSTA\\Desktop\\Nueva carpeta\\cwc\\plugins";
+        Views.ViewsOut = "C:\\COBIS_HOME_WEB_MAP\\cwc\\webapps\\views";
+        plugins.pluginsOut = "C:\\COBIS_HOME_WEB_MAP\\cwc\\plugins";
         this.setTitle( "Proyect Actions" );
         
     }
